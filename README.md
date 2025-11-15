@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>       A school management web app & sharing tech tips on social media<br>👯 I’m looking to collaborate on<br>      Open-source projects with impact, like education, productivity, health etc...<br>🌱 I’m currently learning<br>      Django, AI, NumPy, Pandas<br>💬 Ask me about<br>      Building useful system that solve real-world problems.<br>⚡ Fun fact<br>      I believe tech can change lives and make it easier.
+🔭 I’m currently working on <br>       A school management web app & sharing tech tips on social media<br>👯 I’m looking to collaborate on<br>      Open-source projects with impact, like education, productivity, health etc...<br>🌱 I’m currently learning<br>      Mobil App Dev with Kotlin, (Django, AI, NumPy, Pandas)<br>💬 Ask me about<br>      Building useful system that solve real-world problems.<br>⚡ Fun fact<br>      I believe tech can change lives and make it easier.
 
 
 ## 🌐 Socials:
